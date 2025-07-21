@@ -3,7 +3,7 @@ It is an LLM powered application developed with Langchain.
 This is a web application crawling Linkedin data about a person across web, customizes the info fetched with the help of LLM model and generates a summary, 2 of the interesting facts, 2 most relevant questions and his topics of interest based on the data available from his/her linked in profile.
 To run this project, you will need to add the following environment variables to your .env file
 
-`OPENAI_API_KEY`
+`GOOGLE_API_KEY`
 
 `SCRAPIN_API_KEY` 
 
